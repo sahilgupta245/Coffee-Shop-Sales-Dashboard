@@ -14,6 +14,8 @@
 
 ## • what is the average price/order per person
 
-## • Which products are the best-selling in terms of quantity and revenue?
+## • Which products are the best-selling in quantity and revenue?
 
 ## • How do sales vary by product category and type?
+
+<img align="right" height="210" src="https://github.com/sahilgupta245/Cartoonifier_ML/blob/main/cartoonifier-python-project/blob.png" />
