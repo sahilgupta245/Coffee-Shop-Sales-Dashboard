@@ -18,4 +18,4 @@
 
 ## • How do sales vary by product category and type?
 
-<img align="right" height="210" src="[https://github.com/sahilgupta245/Cartoonifier_ML/blob/main/cartoonifier-python-project/blob.png](https://github.com/sahilgupta245/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales%20Dashboard.png)" />
+<img align="right" height="210" src="https://github.com/sahilgupta245/Cartoonifier_ML/blob/main/cartoonifier-python-project/blob.png" />
