@@ -30,8 +30,9 @@
 #### -> Seasonality: Sales increase significantly during April and May.
 #### -> Customer Behavior: Customers prefer regular-sized beverages over small ones.
 
-
+##
 <img align="right" height="400" width="1200" src="https://github.com/sahilgupta245/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales%20Dashboard.png" />
+##
 
 ## How to Use This Repository
 #### -> Download the Dashboard: Clone or download this repository to access the dashboard image and project files.
