@@ -1,8 +1,7 @@
 # Coffee Shop Sales Dashboard
 
 ## Project Overview
-#### This project focuses on analyzing retail sales data from a coffee shop to derive actionable insights that can help improve business performance. 
-#### The interactive dashboard was created using Microsoft Excel, showcasing advanced data visualization and analytical capabilities.
+#### This project focuses on analyzing retail sales data from a coffee shop to derive actionable insights that can help improve business performance. The interactive dashboard was created using Microsoft Excel, showcasing advanced data visualization and analytical capabilities.
 
 ## Key Objectives
 #### -> Understand sales trends across weekdays, hours, and months.
